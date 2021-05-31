@@ -1,0 +1,2759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ID - Investigação Discovery">
+    <display-name lang="pt">ID - Investigação Discovery</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramount HD">
+    <display-name lang="pt">Paramount HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT SERIES BRASIL">
+    <display-name lang="pt">TNT SERIES BRASIL</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="WooHoo">
+    <display-name lang="pt">WooHoo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20210531004800 -0300" stop="20210531013500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+  </programme>
+  <programme start="20210531013500 -0300" stop="20210531022300 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+  </programme>
+  <programme start="20210531022300 -0300" stop="20210531035800 -0300" channel="A&amp;E">
+    <title lang="pt">Fuga Da Prisão De Dannemora</title>
+  </programme>
+  <programme start="20210531035800 -0300" stop="20210531044500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+  </programme>
+  <programme start="20210531044500 -0300" stop="20210531053500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+  </programme>
+  <programme start="20210531053500 -0300" stop="20210531060000 -0300" channel="A&amp;E">
+    <title lang="pt">Flagrantes Das Câmeras: Tribunais</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531064700 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+  </programme>
+  <programme start="20210531064700 -0300" stop="20210531073500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+  </programme>
+  <programme start="20210531073500 -0300" stop="20210531082500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+  </programme>
+  <programme start="20210531082500 -0300" stop="20210531091500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+  </programme>
+  <programme start="20210531091500 -0300" stop="20210531102000 -0300" channel="A&amp;E">
+    <title lang="pt">El Chapo</title>
+  </programme>
+  <programme start="20210531102000 -0300" stop="20210531111000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+  </programme>
+  <programme start="20210531111000 -0300" stop="20210531113500 -0300" channel="A&amp;E">
+    <title lang="pt">Flagrantes Das Câmeras: Tribunais</title>
+  </programme>
+  <programme start="20210531113500 -0300" stop="20210531122800 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+  </programme>
+  <programme start="20210531122800 -0300" stop="20210531140300 -0300" channel="A&amp;E">
+    <title lang="pt">Fuga Da Prisão De Dannemora</title>
+  </programme>
+  <programme start="20210531140300 -0300" stop="20210531145600 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+  </programme>
+  <programme start="20210531145600 -0300" stop="20210531155000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+  </programme>
+  <programme start="20210531155000 -0300" stop="20210531164300 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+  </programme>
+  <programme start="20210531164300 -0300" stop="20210531173700 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+  </programme>
+  <programme start="20210531173700 -0300" stop="20210531185700 -0300" channel="A&amp;E">
+    <title lang="pt">Gamebros</title>
+  </programme>
+  <programme start="20210531185700 -0300" stop="20210531194900 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+  </programme>
+  <programme start="20210531194900 -0300" stop="20210531204100 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+  </programme>
+  <programme start="20210531204100 -0300" stop="20210531213600 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+  </programme>
+  <programme start="20210531213600 -0300" stop="20210531222100 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+  </programme>
+  <programme start="20210531222100 -0300" stop="20210601001100 -0300" channel="A&amp;E">
+    <title lang="pt">Carga Explosiva: O Legado</title>
+  </programme>
+  <programme start="20210531001800 -0300" stop="20210531010800 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20210531010800 -0300" stop="20210531020100 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20210531020100 -0300" stop="20210531025400 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20210531025400 -0300" stop="20210531034700 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20210531034700 -0300" stop="20210531044000 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20210531044000 -0300" stop="20210531053000 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20210531053000 -0300" stop="20210531060000 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531062600 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20210531062600 -0300" stop="20210531072000 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20210531072000 -0300" stop="20210531081200 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20210531081200 -0300" stop="20210531090400 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20210531090400 -0300" stop="20210531095900 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20210531095900 -0300" stop="20210531102500 -0300" channel="Animal Planet">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20210531102500 -0300" stop="20210531105300 -0300" channel="Animal Planet">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20210531105300 -0300" stop="20210531114700 -0300" channel="Animal Planet">
+    <title lang="pt">Oriente Médio Selvagem</title>
+  </programme>
+  <programme start="20210531114700 -0300" stop="20210531133000 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531142400 -0300" channel="Animal Planet">
+    <title lang="pt">Extinto ou Não?</title>
+  </programme>
+  <programme start="20210531142400 -0300" stop="20210531151800 -0300" channel="Animal Planet">
+    <title lang="pt">Extinto ou Não?</title>
+  </programme>
+  <programme start="20210531151800 -0300" stop="20210531165800 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20210531165800 -0300" stop="20210531175200 -0300" channel="Animal Planet">
+    <title lang="pt">Os Reis da Selva</title>
+  </programme>
+  <programme start="20210531175200 -0300" stop="20210531184200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20210531184200 -0300" stop="20210531193500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20210531193500 -0300" stop="20210531202800 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20210531202800 -0300" stop="20210531212100 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20210531212100 -0300" stop="20210531221400 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico de San Diego</title>
+  </programme>
+  <programme start="20210531221400 -0300" stop="20210531230700 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20210531230700 -0300" stop="20210531233300 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20210531233300 -0300" stop="20210601000000 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531010000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531013000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20210531013000 -0300" stop="20210531020000 -0300" channel="Arte 1">
+    <title lang="pt">Papo Musical</title>
+  </programme>
+  <programme start="20210531020000 -0300" stop="20210531040000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20210531040000 -0300" stop="20210531050000 -0300" channel="Arte 1">
+    <title lang="pt">São Paulo Meu Humor</title>
+  </programme>
+  <programme start="20210531050000 -0300" stop="20210531060000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531070000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531071500 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20210531071500 -0300" stop="20210531074500 -0300" channel="Arte 1">
+    <title lang="pt">Dois Pontos</title>
+  </programme>
+  <programme start="20210531074500 -0300" stop="20210531093000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+  </programme>
+  <programme start="20210531093000 -0300" stop="20210531103000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20210531103000 -0300" stop="20210531113000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20210531113000 -0300" stop="20210531120000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531130000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20210531130000 -0300" stop="20210531133000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531140000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20210531140000 -0300" stop="20210531143000 -0300" channel="Arte 1">
+    <title lang="pt">Invenções da Alma</title>
+  </programme>
+  <programme start="20210531143000 -0300" stop="20210531150000 -0300" channel="Arte 1">
+    <title lang="pt">Estilo Arte 1</title>
+  </programme>
+  <programme start="20210531150000 -0300" stop="20210531164500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Preto e Branco: Nas Garras do Vício</title>
+  </programme>
+  <programme start="20210531164500 -0300" stop="20210531165200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20210531165200 -0300" stop="20210531170000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20210531170000 -0300" stop="20210531180000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20210531180000 -0300" stop="20210531194500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20210531194500 -0300" stop="20210531200000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531203000 -0300" channel="Arte 1">
+    <title lang="pt">O Tempo e a Música: \u201cVilla Lobos com Marcelo Bratke\u201d</title>
+  </programme>
+  <programme start="20210531203000 -0300" stop="20210531223000 -0300" channel="Arte 1">
+    <title lang="pt">Leilão de Arte iArremate</title>
+  </programme>
+  <programme start="20210531223000 -0300" stop="20210531230000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531233000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20210531233000 -0300" stop="20210601011500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531060000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531073000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20210531073000 -0300" stop="20210531120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20210531140000 -0300" stop="20210531180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20210531180000 -0300" stop="20210531200000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531203000 -0300" channel="Band News">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20210531203000 -0300" stop="20210531213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20210531213000 -0300" stop="20210531221500 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20210531221500 -0300" stop="20210531223000 -0300" channel="Band News">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20210531223000 -0300" stop="20210531230000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531233000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20210531233000 -0300" stop="20210601000000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531010000 -0300" channel="Band Sports HD">
+    <title lang="pt">Ace Bandsports</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20210531050000 -0300" stop="20210531060000 -0300" channel="Band Sports HD">
+    <title lang="pt">O Melhor de Roland Garros</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531074500 -0300" channel="Band Sports HD">
+    <title lang="pt">Roland Garros 2021</title>
+  </programme>
+  <programme start="20210531074500 -0300" stop="20210531190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Roland Garros 2021</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Ace Bandsports</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210601000000 -0300" channel="Band Sports HD">
+    <title lang="pt">O Melhor de Roland Garros</title>
+  </programme>
+  <programme start="20210531000400 -0300" stop="20210531002800 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531002800 -0300" stop="20210531005100 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531005100 -0300" stop="20210531010100 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531010100 -0300" stop="20210531010900 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531010900 -0300" stop="20210531011700 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531011700 -0300" stop="20210531012500 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531012500 -0300" stop="20210531013400 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531013400 -0300" stop="20210531014200 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531014200 -0300" stop="20210531015000 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531015000 -0300" stop="20210531015800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531015800 -0300" stop="20210531020400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531020400 -0300" stop="20210531021000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531021000 -0300" stop="20210531021600 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531021600 -0300" stop="20210531022300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531022300 -0300" stop="20210531022900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531022900 -0300" stop="20210531023400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531023400 -0300" stop="20210531024200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531024200 -0300" stop="20210531024700 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531024700 -0300" stop="20210531025300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531025300 -0300" stop="20210531025900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531025900 -0300" stop="20210531031000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531031000 -0300" stop="20210531032300 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531032300 -0300" stop="20210531033400 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531033400 -0300" stop="20210531034100 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531034100 -0300" stop="20210531034900 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531034900 -0300" stop="20210531035600 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531035600 -0300" stop="20210531040400 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531040400 -0300" stop="20210531041600 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531041600 -0300" stop="20210531042700 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531042700 -0300" stop="20210531043900 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531043900 -0300" stop="20210531044900 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531044900 -0300" stop="20210531050000 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531050000 -0300" stop="20210531050700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531050700 -0300" stop="20210531051400 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531051400 -0300" stop="20210531052300 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531052300 -0300" stop="20210531053000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531053000 -0300" stop="20210531053700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531053700 -0300" stop="20210531054500 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531054500 -0300" stop="20210531055200 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531055200 -0300" stop="20210531060000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531060900 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531060900 -0300" stop="20210531061700 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531061700 -0300" stop="20210531062500 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531062500 -0300" stop="20210531063400 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531063400 -0300" stop="20210531064200 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531064200 -0300" stop="20210531065000 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531065000 -0300" stop="20210531065800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20210531065800 -0300" stop="20210531070600 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531070600 -0300" stop="20210531071500 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531071500 -0300" stop="20210531072200 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531072200 -0300" stop="20210531073000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531073000 -0300" stop="20210531073900 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531073900 -0300" stop="20210531075000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531075000 -0300" stop="20210531075300 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20210531075300 -0300" stop="20210531075700 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20210531075700 -0300" stop="20210531080300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531080300 -0300" stop="20210531080900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531080900 -0300" stop="20210531081700 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531081700 -0300" stop="20210531082300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531082300 -0300" stop="20210531082800 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531082800 -0300" stop="20210531083700 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531083700 -0300" stop="20210531084300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531084300 -0300" stop="20210531084900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531084900 -0300" stop="20210531085500 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531085500 -0300" stop="20210531090300 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531090300 -0300" stop="20210531091000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531091000 -0300" stop="20210531091700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531091700 -0300" stop="20210531094200 -0300" channel="Boomerang">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+  </programme>
+  <programme start="20210531094200 -0300" stop="20210531095000 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20210531095000 -0300" stop="20210531101400 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531101400 -0300" stop="20210531103700 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531103700 -0300" stop="20210531110000 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531110000 -0300" stop="20210531110700 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531110700 -0300" stop="20210531111600 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531111600 -0300" stop="20210531112700 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531112700 -0300" stop="20210531113400 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20210531113400 -0300" stop="20210531114300 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20210531114300 -0300" stop="20210531115000 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20210531115000 -0300" stop="20210531115700 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20210531115700 -0300" stop="20210531120400 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531120400 -0300" stop="20210531121200 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531121200 -0300" stop="20210531122100 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531122100 -0300" stop="20210531122800 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531122800 -0300" stop="20210531123600 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531123600 -0300" stop="20210531124800 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531124800 -0300" stop="20210531130000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531130000 -0300" stop="20210531130700 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531130700 -0300" stop="20210531131600 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531131600 -0300" stop="20210531132300 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531132300 -0300" stop="20210531133000 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531134100 -0300" channel="Boomerang">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+  </programme>
+  <programme start="20210531134100 -0300" stop="20210531135400 -0300" channel="Boomerang">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+  </programme>
+  <programme start="20210531135400 -0300" stop="20210531140600 -0300" channel="Boomerang">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+  </programme>
+  <programme start="20210531140600 -0300" stop="20210531141200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531141200 -0300" stop="20210531141900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531141900 -0300" stop="20210531142500 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531142500 -0300" stop="20210531143100 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531143100 -0300" stop="20210531143800 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531143800 -0300" stop="20210531144600 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531144600 -0300" stop="20210531145300 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531145300 -0300" stop="20210531150000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531150000 -0300" stop="20210531150900 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531150900 -0300" stop="20210531151600 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531151600 -0300" stop="20210531152300 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531152300 -0300" stop="20210531153000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531153000 -0300" stop="20210531154100 -0300" channel="Boomerang">
+    <title lang="pt">Corrida Maluca</title>
+  </programme>
+  <programme start="20210531154100 -0300" stop="20210531155400 -0300" channel="Boomerang">
+    <title lang="pt">Corrida Maluca</title>
+  </programme>
+  <programme start="20210531155400 -0300" stop="20210531160500 -0300" channel="Boomerang">
+    <title lang="pt">Corrida Maluca</title>
+  </programme>
+  <programme start="20210531160500 -0300" stop="20210531162800 -0300" channel="Boomerang">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210531162800 -0300" stop="20210531163600 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20210531163600 -0300" stop="20210531164800 -0300" channel="Boomerang">
+    <title lang="pt">Lego Friends: Meninas Em Missão</title>
+  </programme>
+  <programme start="20210531164800 -0300" stop="20210531165900 -0300" channel="Boomerang">
+    <title lang="pt">Lego Friends: Meninas Em Missão</title>
+  </programme>
+  <programme start="20210531165900 -0300" stop="20210531170700 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531170700 -0300" stop="20210531171500 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531171500 -0300" stop="20210531172300 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531172300 -0300" stop="20210531173000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531173000 -0300" stop="20210531174300 -0300" channel="Boomerang">
+    <title lang="pt">Ben 10</title>
+  </programme>
+  <programme start="20210531174300 -0300" stop="20210531175500 -0300" channel="Boomerang">
+    <title lang="pt">Ben 10</title>
+  </programme>
+  <programme start="20210531175500 -0300" stop="20210531181800 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531181800 -0300" stop="20210531184200 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531184200 -0300" stop="20210531190400 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531190400 -0300" stop="20210531191900 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531191900 -0300" stop="20210531192400 -0300" channel="Boomerang">
+    <title lang="pt">Gui &amp; Estopa</title>
+  </programme>
+  <programme start="20210531192400 -0300" stop="20210531193100 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20210531193100 -0300" stop="20210531194000 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20210531194000 -0300" stop="20210531194800 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20210531194800 -0300" stop="20210531195500 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20210531195500 -0300" stop="20210531200700 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210531200700 -0300" stop="20210531202100 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210531202100 -0300" stop="20210531203200 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210531203200 -0300" stop="20210531203800 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531203800 -0300" stop="20210531204500 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531204500 -0300" stop="20210531205000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531205000 -0300" stop="20210531205600 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20210531205600 -0300" stop="20210531210700 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531210700 -0300" stop="20210531212000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531212000 -0300" stop="20210531213100 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20210531213100 -0300" stop="20210531213800 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531213800 -0300" stop="20210531214600 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531214600 -0300" stop="20210531215400 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531215400 -0300" stop="20210531220100 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20210531220100 -0300" stop="20210531220800 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531220800 -0300" stop="20210531221500 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531221500 -0300" stop="20210531222400 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531222400 -0300" stop="20210531223100 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531223100 -0300" stop="20210531223800 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531223800 -0300" stop="20210531224600 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531224600 -0300" stop="20210531225300 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531225300 -0300" stop="20210531230000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531231300 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531231300 -0300" stop="20210531232400 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531232400 -0300" stop="20210531233700 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531233700 -0300" stop="20210531234800 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531234800 -0300" stop="20210531235900 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531235900 -0300" stop="20210601000700 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531000300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531000300 -0300" stop="20210531001100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Anuário de Darwin</title>
+  </programme>
+  <programme start="20210531001100 -0300" stop="20210531001500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531001500 -0300" stop="20210531002600 -0300" channel="Cartoon Network">
+    <title lang="pt">The Gumball Chronicles</title>
+  </programme>
+  <programme start="20210531002600 -0300" stop="20210531003100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531003100 -0300" stop="20210531003700 -0300" channel="Cartoon Network">
+    <title lang="pt">The Gumball Chronicles</title>
+  </programme>
+  <programme start="20210531003700 -0300" stop="20210531004300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531004300 -0300" stop="20210531005300 -0300" channel="Cartoon Network">
+    <title lang="pt">The Gumball Chronicles</title>
+  </programme>
+  <programme start="20210531005300 -0300" stop="20210531005400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531005400 -0300" stop="20210531010000 -0300" channel="Cartoon Network">
+    <title lang="pt">The Gumball Chronicles</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531010300 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20210531010300 -0300" stop="20210531011100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531011100 -0300" stop="20210531012700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20210531012700 -0300" stop="20210531013800 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20210531013800 -0300" stop="20210531015400 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20210531015400 -0300" stop="20210531020000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20210531020000 -0300" stop="20210531021100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531021100 -0300" stop="20210531022700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531022700 -0300" stop="20210531023800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531023800 -0300" stop="20210531025400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531025400 -0300" stop="20210531030000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531030000 -0300" stop="20210531030500 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531030500 -0300" stop="20210531031200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531031200 -0300" stop="20210531032800 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531032800 -0300" stop="20210531033900 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531033900 -0300" stop="20210531035500 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531035500 -0300" stop="20210531040000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531040000 -0300" stop="20210531040700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531040700 -0300" stop="20210531041200 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20210531041200 -0300" stop="20210531042800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531042800 -0300" stop="20210531043900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531043900 -0300" stop="20210531045600 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531045600 -0300" stop="20210531050000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531050000 -0300" stop="20210531051100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531051100 -0300" stop="20210531052700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531052700 -0300" stop="20210531053900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531053900 -0300" stop="20210531055500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531055500 -0300" stop="20210531060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531060700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531060700 -0300" stop="20210531061500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20210531061500 -0300" stop="20210531062600 -0300" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531062600 -0300" stop="20210531063000 -0300" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20210531063000 -0300" stop="20210531070000 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531071100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531071100 -0300" stop="20210531072800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531072800 -0300" stop="20210531074400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531074400 -0300" stop="20210531080000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531080000 -0300" stop="20210531081200 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531081200 -0300" stop="20210531081500 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531081500 -0300" stop="20210531081900 -0300" channel="Cartoon Network">
+    <title lang="pt">Turma da Mônica Jovem</title>
+  </programme>
+  <programme start="20210531081900 -0300" stop="20210531083000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531083000 -0300" stop="20210531083100 -0300" channel="Cartoon Network">
+    <title lang="pt">Jornadas Pokémon</title>
+  </programme>
+  <programme start="20210531083100 -0300" stop="20210531085000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20210531085000 -0300" stop="20210531090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531090000 -0300" stop="20210531091100 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531091100 -0300" stop="20210531092600 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531092600 -0300" stop="20210531093700 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531093700 -0300" stop="20210531095300 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531095300 -0300" stop="20210531100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531100000 -0300" stop="20210531100300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531100300 -0300" stop="20210531101100 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531101100 -0300" stop="20210531102700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531102700 -0300" stop="20210531103900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531103900 -0300" stop="20210531105400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531105400 -0300" stop="20210531110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531110000 -0300" stop="20210531110400 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531110400 -0300" stop="20210531111100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531111100 -0300" stop="20210531112800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531112800 -0300" stop="20210531113000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531113000 -0300" stop="20210531114100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531114100 -0300" stop="20210531115700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531115700 -0300" stop="20210531120900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531120900 -0300" stop="20210531122500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531122500 -0300" stop="20210531123000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531123000 -0300" stop="20210531123600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531123600 -0300" stop="20210531124100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20210531124100 -0300" stop="20210531125700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531125700 -0300" stop="20210531130800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531130800 -0300" stop="20210531132400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531132400 -0300" stop="20210531133000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531133400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531133400 -0300" stop="20210531134000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531134000 -0300" stop="20210531135700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531135700 -0300" stop="20210531141300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531141300 -0300" stop="20210531143000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531143000 -0300" stop="20210531150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210531150000 -0300" stop="20210531151100 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531151100 -0300" stop="20210531152600 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531152600 -0300" stop="20210531153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20210531153000 -0300" stop="20210531154100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531154100 -0300" stop="20210531155700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531155700 -0300" stop="20210531160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531160000 -0300" stop="20210531160900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531160900 -0300" stop="20210531161100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531161100 -0300" stop="20210531162400 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531162400 -0300" stop="20210531162800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531162800 -0300" stop="20210531163400 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531163400 -0300" stop="20210531164400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531164400 -0300" stop="20210531170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20210531170000 -0300" stop="20210531171100 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531171100 -0300" stop="20210531172700 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531172700 -0300" stop="20210531173900 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531173900 -0300" stop="20210531174500 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531174500 -0300" stop="20210531175500 -0300" channel="Cartoon Network">
+    <title lang="pt">Toontorial</title>
+  </programme>
+  <programme start="20210531175500 -0300" stop="20210531180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531180000 -0300" stop="20210531181200 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+  </programme>
+  <programme start="20210531181200 -0300" stop="20210531182800 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+  </programme>
+  <programme start="20210531182800 -0300" stop="20210531183000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+  </programme>
+  <programme start="20210531183000 -0300" stop="20210531184600 -0300" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210531184600 -0300" stop="20210531190000 -0300" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531191000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531191000 -0300" stop="20210531192600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531192600 -0300" stop="20210531194200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531194200 -0300" stop="20210531194500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531194500 -0300" stop="20210531200000 -0300" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531201200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531201200 -0300" stop="20210531202800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531202800 -0300" stop="20210531204400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531204400 -0300" stop="20210531204500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20210531204500 -0300" stop="20210531205600 -0300" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20210531205600 -0300" stop="20210531210000 -0300" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20210531210000 -0300" stop="20210531211100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531211100 -0300" stop="20210531212700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531212700 -0300" stop="20210531213800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531213800 -0300" stop="20210531214500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531214500 -0300" stop="20210531215400 -0300" channel="Cartoon Network">
+    <title lang="pt">Outra Semana no Cartoon</title>
+  </programme>
+  <programme start="20210531215400 -0300" stop="20210531220300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20210531220300 -0300" stop="20210531221500 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+  </programme>
+  <programme start="20210531221500 -0300" stop="20210531223200 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+  </programme>
+  <programme start="20210531223200 -0300" stop="20210531225000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+  </programme>
+  <programme start="20210531225000 -0300" stop="20210531230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531231100 -0300" stop="20210531232800 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531232800 -0300" stop="20210531233900 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531233900 -0300" stop="20210531235500 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531235500 -0300" stop="20210601000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531015600 -0300" channel="Comedy Central">
+    <title lang="pt">Stand Up Especial: Brasileiro Sem limites</title>
+  </programme>
+  <programme start="20210531015600 -0300" stop="20210531022000 -0300" channel="Comedy Central">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20210531022000 -0300" stop="20210531024600 -0300" channel="Comedy Central">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20210531024600 -0300" stop="20210531031200 -0300" channel="Comedy Central">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20210531031200 -0300" stop="20210531034400 -0300" channel="Comedy Central">
+    <title lang="pt">Broad City</title>
+  </programme>
+  <programme start="20210531034400 -0300" stop="20210531040900 -0300" channel="Comedy Central">
+    <title lang="pt">Takeshi's Castle Thailand</title>
+  </programme>
+  <programme start="20210531040900 -0300" stop="20210531044000 -0300" channel="Comedy Central">
+    <title lang="pt">Homens?</title>
+  </programme>
+  <programme start="20210531044000 -0300" stop="20210531053400 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral na Estrada</title>
+  </programme>
+  <programme start="20210531053400 -0300" stop="20210531060200 -0300" channel="Comedy Central">
+    <title lang="pt">Idiotando</title>
+  </programme>
+  <programme start="20210531060200 -0300" stop="20210531063300 -0300" channel="Comedy Central">
+    <title lang="pt">Broad City</title>
+  </programme>
+  <programme start="20210531063300 -0300" stop="20210531070000 -0300" channel="Comedy Central">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531072400 -0300" channel="Comedy Central">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20210531072400 -0300" stop="20210531074800 -0300" channel="Comedy Central">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20210531074800 -0300" stop="20210531081300 -0300" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20210531081300 -0300" stop="20210531081800 -0300" channel="Comedy Central">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20210531081800 -0300" stop="20210531084200 -0300" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20210531084200 -0300" stop="20210531103100 -0300" channel="Comedy Central">
+    <title lang="pt">Um Tira da Pesada</title>
+  </programme>
+  <programme start="20210531103100 -0300" stop="20210531121800 -0300" channel="Comedy Central">
+    <title lang="pt">Um Tira da Pesada 2</title>
+  </programme>
+  <programme start="20210531121800 -0300" stop="20210531140900 -0300" channel="Comedy Central">
+    <title lang="pt">Um Tira da Pesada 3</title>
+  </programme>
+  <programme start="20210531140900 -0300" stop="20210531143200 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20210531143200 -0300" stop="20210531145700 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20210531145700 -0300" stop="20210531152200 -0300" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20210531152200 -0300" stop="20210531154900 -0300" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20210531154900 -0300" stop="20210531161500 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20210531161500 -0300" stop="20210531164100 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20210531164100 -0300" stop="20210531170600 -0300" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20210531170600 -0300" stop="20210531173100 -0300" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20210531173100 -0300" stop="20210531175400 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20210531175400 -0300" stop="20210531181900 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20210531181900 -0300" stop="20210531192100 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20210531192100 -0300" stop="20210531194700 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20210531194700 -0300" stop="20210531201200 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20210531201200 -0300" stop="20210531203500 -0300" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20210531203500 -0300" stop="20210531210000 -0300" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20210531210000 -0300" stop="20210531215100 -0300" channel="Comedy Central">
+    <title lang="pt">Comédia Futebol Clube</title>
+  </programme>
+  <programme start="20210531215100 -0300" stop="20210531225300 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20210531225300 -0300" stop="20210531235500 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20210531235500 -0300" stop="20210601005000 -0300" channel="Comedy Central">
+    <title lang="pt">Comédia Futebol Clube</title>
+  </programme>
+  <programme start="20210531003600 -0300" stop="20210531012700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Lei da Sobrevivência</title>
+  </programme>
+  <programme start="20210531012700 -0300" stop="20210531021400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Por Que Deu Errado?</title>
+  </programme>
+  <programme start="20210531021400 -0300" stop="20210531023800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Como Construir...Tudo!</title>
+  </programme>
+  <programme start="20210531023800 -0300" stop="20210531030100 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ciência nas Ruas</title>
+  </programme>
+  <programme start="20210531030100 -0300" stop="20210531034500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Experiências Superloucas</title>
+  </programme>
+  <programme start="20210531034500 -0300" stop="20210531042900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Sobrevivente Geek</title>
+  </programme>
+  <programme start="20210531042900 -0300" stop="20210531051300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20210531051300 -0300" stop="20210531060000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531065200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+  </programme>
+  <programme start="20210531065200 -0300" stop="20210531071700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Controle de Fronteiras</title>
+  </programme>
+  <programme start="20210531071700 -0300" stop="20210531074200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20210531074200 -0300" stop="20210531082900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Forças Especiais: O Desafio</title>
+  </programme>
+  <programme start="20210531082900 -0300" stop="20210531091600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20210531091600 -0300" stop="20210531100300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20210531100300 -0300" stop="20210531105100 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+  </programme>
+  <programme start="20210531105100 -0300" stop="20210531113900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+  </programme>
+  <programme start="20210531113900 -0300" stop="20210531122700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">O Inexplorado, com Justin Fornal</title>
+  </programme>
+  <programme start="20210531122700 -0300" stop="20210531131500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">O Caçador de Múmias</title>
+  </programme>
+  <programme start="20210531131500 -0300" stop="20210531140300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20210531140300 -0300" stop="20210531145100 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20210531145100 -0300" stop="20210531153900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20210531153900 -0300" stop="20210531162700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20210531162700 -0300" stop="20210531171600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20210531171600 -0300" stop="20210531180000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20210531180000 -0300" stop="20210531184900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20210531184900 -0300" stop="20210531193800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20210531193800 -0300" stop="20210531202600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20210531202600 -0300" stop="20210531211400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20210531211400 -0300" stop="20210531220200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20210531220200 -0300" stop="20210531224600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20210531224600 -0300" stop="20210531233600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20210531233600 -0300" stop="20210601002700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20210531002600 -0300" stop="20210531011900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Dra. Emma: Uma Questão de Pele</title>
+  </programme>
+  <programme start="20210531011900 -0300" stop="20210531020700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Drª Cathy: Devolvendo a Autoestima</title>
+  </programme>
+  <programme start="20210531020700 -0300" stop="20210531033200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Bake Off Brasil</title>
+  </programme>
+  <programme start="20210531033200 -0300" stop="20210531051200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20210531051200 -0300" stop="20210531060000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Bolo Perfeito: A Competição</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531062200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Vida No Paraíso: Mediterrâneo</title>
+  </programme>
+  <programme start="20210531062200 -0300" stop="20210531064700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20210531064700 -0300" stop="20210531071200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20210531071200 -0300" stop="20210531080100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20210531080100 -0300" stop="20210531082500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Casa de Jennie Garth</title>
+  </programme>
+  <programme start="20210531082500 -0300" stop="20210531084900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Casa de Jennie Garth</title>
+  </programme>
+  <programme start="20210531084900 -0300" stop="20210531093700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+  </programme>
+  <programme start="20210531093700 -0300" stop="20210531102500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Alison E Donovan: Reformando Com Estilo</title>
+  </programme>
+  <programme start="20210531102500 -0300" stop="20210531111500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+  </programme>
+  <programme start="20210531111500 -0300" stop="20210531120400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20210531120400 -0300" stop="20210531125500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20210531125500 -0300" stop="20210531134800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20210531134800 -0300" stop="20210531144000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20210531144000 -0300" stop="20210531153200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos À Obra: Um Lar Para Drew E Linda</title>
+  </programme>
+  <programme start="20210531153200 -0300" stop="20210531162400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20210531162400 -0300" stop="20210531171600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Total Com Nate E Jeremiah</title>
+  </programme>
+  <programme start="20210531171600 -0300" stop="20210531180800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+  </programme>
+  <programme start="20210531180800 -0300" stop="20210531190000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Extreme Makeover: Reconstrução Total</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531195400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20210531195400 -0300" stop="20210531204700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20210531204700 -0300" stop="20210531214000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+  </programme>
+  <programme start="20210531214000 -0300" stop="20210531223300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20210531223300 -0300" stop="20210531230000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Casa de Jennie Garth</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531232800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Casa de Jennie Garth</title>
+  </programme>
+  <programme start="20210531232800 -0300" stop="20210601002300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+  </programme>
+  <programme start="20210531000500 -0300" stop="20210531001600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Enchantimals Histórias De Everwilde</title>
+  </programme>
+  <programme start="20210531001600 -0300" stop="20210531001700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531001700 -0300" stop="20210531001800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531001800 -0300" stop="20210531001900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531001900 -0300" stop="20210531002400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531002400 -0300" stop="20210531003500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+  </programme>
+  <programme start="20210531003500 -0300" stop="20210531004600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Floogals</title>
+  </programme>
+  <programme start="20210531004600 -0300" stop="20210531005700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Floogals</title>
+  </programme>
+  <programme start="20210531005700 -0300" stop="20210531010800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Vivi Viravento</title>
+  </programme>
+  <programme start="20210531010800 -0300" stop="20210531013000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Parque Patati Patatá</title>
+  </programme>
+  <programme start="20210531013000 -0300" stop="20210531013700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+  </programme>
+  <programme start="20210531013700 -0300" stop="20210531014400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+  </programme>
+  <programme start="20210531014400 -0300" stop="20210531020500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531020500 -0300" stop="20210531022700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+  </programme>
+  <programme start="20210531022700 -0300" stop="20210531024900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">My Little Pony: A Amizade é Mágica</title>
+  </programme>
+  <programme start="20210531024900 -0300" stop="20210531031100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Zoo da Zu</title>
+  </programme>
+  <programme start="20210531031100 -0300" stop="20210531032300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+  </programme>
+  <programme start="20210531032300 -0300" stop="20210531033400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20210531033400 -0300" stop="20210531034500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20210531034500 -0300" stop="20210531035600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+  </programme>
+  <programme start="20210531035600 -0300" stop="20210531040700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+  </programme>
+  <programme start="20210531040700 -0300" stop="20210531041900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+  </programme>
+  <programme start="20210531041900 -0300" stop="20210531043100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+  </programme>
+  <programme start="20210531043100 -0300" stop="20210531044200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20210531044200 -0300" stop="20210531045300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20210531045300 -0300" stop="20210531051600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531051600 -0300" stop="20210531053800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+  </programme>
+  <programme start="20210531053800 -0300" stop="20210531060000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531062200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20210531062200 -0300" stop="20210531064800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531064800 -0300" stop="20210531065300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531065300 -0300" stop="20210531065800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531065800 -0300" stop="20210531065900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531065900 -0300" stop="20210531070000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531071200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20210531071200 -0300" stop="20210531072400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20210531072400 -0300" stop="20210531073600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20210531073600 -0300" stop="20210531075000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20210531075000 -0300" stop="20210531080200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20210531080200 -0300" stop="20210531080600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Puppy!</title>
+  </programme>
+  <programme start="20210531080600 -0300" stop="20210531092500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">A Abelhinha Maya: O Filme</title>
+  </programme>
+  <programme start="20210531092500 -0300" stop="20210531092600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531092600 -0300" stop="20210531093800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20210531093800 -0300" stop="20210531095300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20210531095300 -0300" stop="20210531100000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531100000 -0300" stop="20210531100700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531100700 -0300" stop="20210531101800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531101800 -0300" stop="20210531102900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531102900 -0300" stop="20210531105600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531105600 -0300" stop="20210531110700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">My Little Pony: Pony Life</title>
+  </programme>
+  <programme start="20210531110700 -0300" stop="20210531112200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">My Little Pony: Pony Life</title>
+  </programme>
+  <programme start="20210531112200 -0300" stop="20210531112700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531112700 -0300" stop="20210531113200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531113200 -0300" stop="20210531113700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531113700 -0300" stop="20210531114600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531114600 -0300" stop="20210531115100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531115100 -0300" stop="20210531115600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531115600 -0300" stop="20210531120100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531120100 -0300" stop="20210531121200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20210531121200 -0300" stop="20210531122300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20210531122300 -0300" stop="20210531123800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20210531123800 -0300" stop="20210531124900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20210531124900 -0300" stop="20210531131600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531131600 -0300" stop="20210531133900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531133900 -0300" stop="20210531140600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531140600 -0300" stop="20210531141700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+  </programme>
+  <programme start="20210531141700 -0300" stop="20210531142800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+  </programme>
+  <programme start="20210531142800 -0300" stop="20210531143300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531143300 -0300" stop="20210531143800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531143800 -0300" stop="20210531144600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531144600 -0300" stop="20210531145100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531145100 -0300" stop="20210531145600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531145600 -0300" stop="20210531150100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531150100 -0300" stop="20210531152800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531152800 -0300" stop="20210531153900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531153900 -0300" stop="20210531155000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531155000 -0300" stop="20210531160400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531160400 -0300" stop="20210531161500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20210531161500 -0300" stop="20210531162200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531162200 -0300" stop="20210531162900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531162900 -0300" stop="20210531163600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+  </programme>
+  <programme start="20210531163600 -0300" stop="20210531164100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531164100 -0300" stop="20210531170700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531170700 -0300" stop="20210531170800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531170800 -0300" stop="20210531170900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531170900 -0300" stop="20210531171000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531171000 -0300" stop="20210531171500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531171500 -0300" stop="20210531172000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531172000 -0300" stop="20210531172500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531172500 -0300" stop="20210531173000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531173000 -0300" stop="20210531173900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531173900 -0300" stop="20210531174400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531174400 -0300" stop="20210531174900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531174900 -0300" stop="20210531175400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531175400 -0300" stop="20210531175900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20210531175900 -0300" stop="20210531181400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa: As Botas De Ouro</title>
+  </programme>
+  <programme start="20210531181400 -0300" stop="20210531181900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531181900 -0300" stop="20210531184500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531184500 -0300" stop="20210531190800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531190800 -0300" stop="20210531193500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531193500 -0300" stop="20210531194600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20210531194600 -0300" stop="20210531200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531200500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531200500 -0300" stop="20210531201000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531201000 -0300" stop="20210531201500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531201500 -0300" stop="20210531203800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531203800 -0300" stop="20210531210500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531210500 -0300" stop="20210531213100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531213100 -0300" stop="20210531215700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20210531215700 -0300" stop="20210531232300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Cada um na sua Casa</title>
+  </programme>
+  <programme start="20210531232300 -0300" stop="20210531232400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531232400 -0300" stop="20210531232500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531232500 -0300" stop="20210531232600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+  </programme>
+  <programme start="20210531232600 -0300" stop="20210531233700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+  </programme>
+  <programme start="20210531233700 -0300" stop="20210531235100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Caçadores de Monstros</title>
+  </programme>
+  <programme start="20210531235100 -0300" stop="20210531235800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20210531235800 -0300" stop="20210601000500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20210531062400 -0300" stop="20210531071200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20210531071200 -0300" stop="20210531080000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+  </programme>
+  <programme start="20210531080000 -0300" stop="20210531084800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Sobrevivente Geek</title>
+  </programme>
+  <programme start="20210531084800 -0300" stop="20210531093600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Saúde a 10 Mil Metros</title>
+  </programme>
+  <programme start="20210531093600 -0300" stop="20210531102400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Em Busca dos Vikings</title>
+  </programme>
+  <programme start="20210531102400 -0300" stop="20210531111200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+  </programme>
+  <programme start="20210531111200 -0300" stop="20210531113600 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+  </programme>
+  <programme start="20210531113600 -0300" stop="20210531120000 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Segredo das Coisas</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531124800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Absurdos da Engenharia</title>
+  </programme>
+  <programme start="20210531124800 -0300" stop="20210531133600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Absurdos da Engenharia</title>
+  </programme>
+  <programme start="20210531133600 -0300" stop="20210531142400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Ilusão com Keith Barry</title>
+  </programme>
+  <programme start="20210531142400 -0300" stop="20210531151200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+  </programme>
+  <programme start="20210531151200 -0300" stop="20210531160000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+  </programme>
+  <programme start="20210531160000 -0300" stop="20210531164800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+  </programme>
+  <programme start="20210531164800 -0300" stop="20210531173600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Experiências Superloucas</title>
+  </programme>
+  <programme start="20210531173600 -0300" stop="20210531182400 -0300" channel="Discovery Science HD">
+    <title lang="pt">O Que a História Esqueceu</title>
+  </programme>
+  <programme start="20210531182400 -0300" stop="20210531191200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Penn e Teller: Nem Tudo É Verdade</title>
+  </programme>
+  <programme start="20210531191200 -0300" stop="20210531200000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Veículos Lunares</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531202400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+  </programme>
+  <programme start="20210531202400 -0300" stop="20210531204800 -0300" channel="Discovery Science HD">
+    <title lang="pt">Transplantes</title>
+  </programme>
+  <programme start="20210531204800 -0300" stop="20210531213600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Universidade Forense</title>
+  </programme>
+  <programme start="20210531213600 -0300" stop="20210531222400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+  </programme>
+  <programme start="20210531222400 -0300" stop="20210531231200 -0300" channel="Discovery Science HD">
+    <title lang="pt">Nikola Tesla: Arquivos Secretos</title>
+  </programme>
+  <programme start="20210531231200 -0300" stop="20210531233600 -0300" channel="Discovery Science HD">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+  </programme>
+  <programme start="20210531233600 -0300" stop="20210601062400 -0300" channel="Discovery Science HD">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+  </programme>
+  <programme start="20210531002200 -0300" stop="20210531011300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20210531011300 -0300" stop="20210531020400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+  </programme>
+  <programme start="20210531020400 -0300" stop="20210531023400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">As Mecânicas</title>
+  </programme>
+  <programme start="20210531023400 -0300" stop="20210531032900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficinaço</title>
+  </programme>
+  <programme start="20210531032900 -0300" stop="20210531042000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Superclássicos</title>
+  </programme>
+  <programme start="20210531042000 -0300" stop="20210531051000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+  </programme>
+  <programme start="20210531051000 -0300" stop="20210531060000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Superclássicos</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531065100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Supermáquinas com Alex Vega</title>
+  </programme>
+  <programme start="20210531065100 -0300" stop="20210531074200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20210531074200 -0300" stop="20210531083300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20210531083300 -0300" stop="20210531092300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20210531092300 -0300" stop="20210531101500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20210531101500 -0300" stop="20210531110700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina dos Sonhos</title>
+  </programme>
+  <programme start="20210531110700 -0300" stop="20210531115900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20210531115900 -0300" stop="20210531125200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+  </programme>
+  <programme start="20210531125200 -0300" stop="20210531134400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas</title>
+  </programme>
+  <programme start="20210531134400 -0300" stop="20210531143600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho Ao Resgate</title>
+  </programme>
+  <programme start="20210531143600 -0300" stop="20210531152800 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Pequena Grande Oficina</title>
+  </programme>
+  <programme start="20210531152800 -0300" stop="20210531162000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+  </programme>
+  <programme start="20210531162000 -0300" stop="20210531171400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20210531171400 -0300" stop="20210531180600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Dupla do Barulho Ao Resgate</title>
+  </programme>
+  <programme start="20210531180600 -0300" stop="20210531183200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Vida Automotiva (Ancine)</title>
+  </programme>
+  <programme start="20210531183200 -0300" stop="20210531185900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Vida Automotiva (Ancine)</title>
+  </programme>
+  <programme start="20210531185900 -0300" stop="20210531195100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina de Sonhos</title>
+  </programme>
+  <programme start="20210531195100 -0300" stop="20210531204300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20210531204300 -0300" stop="20210531213500 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+  </programme>
+  <programme start="20210531213500 -0300" stop="20210531222700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+  </programme>
+  <programme start="20210531222700 -0300" stop="20210531225300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+  </programme>
+  <programme start="20210531225300 -0300" stop="20210531231900 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+  </programme>
+  <programme start="20210531231900 -0300" stop="20210601001300 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Viciado em Motores: Goblin Garage</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20210531030000 -0300" stop="20210531035000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531035000 -0300" stop="20210531044000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20210531044000 -0300" stop="20210531053000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20210531053000 -0300" stop="20210531060000 -0300" channel="E!">
+    <title lang="pt">Meet The Frasers</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531070000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531075000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20210531075000 -0300" stop="20210531084000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20210531084000 -0300" stop="20210531093000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20210531093000 -0300" stop="20210531102000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20210531102000 -0300" stop="20210531111000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20210531111000 -0300" stop="20210531120000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531125000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531125000 -0300" stop="20210531132000 -0300" channel="E!">
+    <title lang="pt">Younger</title>
+  </programme>
+  <programme start="20210531132000 -0300" stop="20210531134500 -0300" channel="E!">
+    <title lang="pt">Younger</title>
+  </programme>
+  <programme start="20210531134500 -0300" stop="20210531141500 -0300" channel="E!">
+    <title lang="pt">Younger</title>
+  </programme>
+  <programme start="20210531141500 -0300" stop="20210531144000 -0300" channel="E!">
+    <title lang="pt">Younger</title>
+  </programme>
+  <programme start="20210531144000 -0300" stop="20210531151000 -0300" channel="E!">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+  </programme>
+  <programme start="20210531151000 -0300" stop="20210531153500 -0300" channel="E!">
+    <title lang="pt">10 Coisas Que Você Não Sabe</title>
+  </programme>
+  <programme start="20210531153500 -0300" stop="20210531163000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20210531163000 -0300" stop="20210531172500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+  </programme>
+  <programme start="20210531172500 -0300" stop="20210531181500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+  </programme>
+  <programme start="20210531181500 -0300" stop="20210531181700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20210531181700 -0300" stop="20210531191200 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20210531191200 -0300" stop="20210531191500 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20210531191500 -0300" stop="20210531201000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20210531201000 -0300" stop="20210531210500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531210500 -0300" stop="20210531220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531220000 -0300" stop="20210531225000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20210531225000 -0300" stop="20210531231500 -0300" channel="E!">
+    <title lang="pt">Overserved with Lisa Vanderpump</title>
+  </programme>
+  <programme start="20210531231500 -0300" stop="20210531233500 -0300" channel="E!">
+    <title lang="pt">Overserved with Lisa Vanderpump</title>
+  </programme>
+  <programme start="20210531233500 -0300" stop="20210601000000 -0300" channel="E!">
+    <title lang="pt">Beleza GG</title>
+  </programme>
+  <programme start="20210531004500 -0300" stop="20210531013400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">911: Quando a Morte Chama</title>
+  </programme>
+  <programme start="20210531013400 -0300" stop="20210531022300 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20210531022300 -0300" stop="20210531031100 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20210531031100 -0300" stop="20210531035900 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Crimes Misteriosos: Aaron Hernandez</title>
+  </programme>
+  <programme start="20210531035900 -0300" stop="20210531044700 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Crimes Misteriosos: Aaron Hernandez</title>
+  </programme>
+  <programme start="20210531044700 -0300" stop="20210531053500 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Crimes Misteriosos: Aaron Hernandez</title>
+  </programme>
+  <programme start="20210531053500 -0300" stop="20210531060000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Encontros Infernais</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531065000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">People Magazine: Além Da Notícia</title>
+  </programme>
+  <programme start="20210531065000 -0300" stop="20210531074000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Desaparecidos</title>
+  </programme>
+  <programme start="20210531074000 -0300" stop="20210531083000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Desaparecidos</title>
+  </programme>
+  <programme start="20210531083000 -0300" stop="20210531092200 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Desaparecidos</title>
+  </programme>
+  <programme start="20210531092200 -0300" stop="20210531101400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Trabalhando com um Assassino</title>
+  </programme>
+  <programme start="20210531101400 -0300" stop="20210531110600 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Decifrando as Evidências</title>
+  </programme>
+  <programme start="20210531110600 -0300" stop="20210531115800 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Decifrando as Evidências</title>
+  </programme>
+  <programme start="20210531115800 -0300" stop="20210531125000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">As Verdadeiras Mulheres Assassinas</title>
+  </programme>
+  <programme start="20210531125000 -0300" stop="20210531134200 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">As Verdadeiras Mulheres Assassinas</title>
+  </programme>
+  <programme start="20210531134200 -0300" stop="20210531143300 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">As Verdadeiras Mulheres Assassinas</title>
+  </programme>
+  <programme start="20210531143300 -0300" stop="20210531152400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Lobo Em Pele De Cordeiro</title>
+  </programme>
+  <programme start="20210531152400 -0300" stop="20210531161500 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Lobo Em Pele De Cordeiro</title>
+  </programme>
+  <programme start="20210531161500 -0300" stop="20210531170600 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Lobo Em Pele De Cordeiro</title>
+  </programme>
+  <programme start="20210531170600 -0300" stop="20210531175700 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Cidade do Crime</title>
+  </programme>
+  <programme start="20210531175700 -0300" stop="20210531184800 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Cidade do Crime</title>
+  </programme>
+  <programme start="20210531184800 -0300" stop="20210531193900 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Cidade do Crime</title>
+  </programme>
+  <programme start="20210531193900 -0300" stop="20210531203000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Trabalhando com um Assassino</title>
+  </programme>
+  <programme start="20210531203000 -0300" stop="20210531212100 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Trabalhando com um Assassino</title>
+  </programme>
+  <programme start="20210531212100 -0300" stop="20210531221200 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Sobre Viver</title>
+  </programme>
+  <programme start="20210531221200 -0300" stop="20210531230300 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Sobre Viver</title>
+  </programme>
+  <programme start="20210531230300 -0300" stop="20210531232900 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Adotados</title>
+  </programme>
+  <programme start="20210531232900 -0300" stop="20210531235400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Adotados</title>
+  </programme>
+  <programme start="20210531235400 -0300" stop="20210601004500 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Diabólicos</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531030000 -0300" channel="MTV">
+    <title lang="pt">Naninha MTV</title>
+  </programme>
+  <programme start="20210531030000 -0300" stop="20210531040000 -0300" channel="MTV">
+    <title lang="pt">MTV Acordaê</title>
+  </programme>
+  <programme start="20210531040000 -0300" stop="20210531052000 -0300" channel="MTV">
+    <title lang="pt">MTV Hits</title>
+  </programme>
+  <programme start="20210531052000 -0300" stop="20210531061000 -0300" channel="MTV">
+    <title lang="pt">Catfish</title>
+  </programme>
+  <programme start="20210531061000 -0300" stop="20210531070500 -0300" channel="MTV">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531070500 -0300" stop="20210531080500 -0300" channel="MTV">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531080500 -0300" stop="20210531090500 -0300" channel="MTV">
+    <title lang="pt">Pelados e Apaixonados</title>
+  </programme>
+  <programme start="20210531090500 -0300" stop="20210531092500 -0300" channel="MTV">
+    <title lang="pt">30 Minutos de Ex</title>
+  </programme>
+  <programme start="20210531092500 -0300" stop="20210531093500 -0300" channel="MTV">
+    <title lang="pt">De Férias Com o Ex Brasil: Críticas Construtivas</title>
+  </programme>
+  <programme start="20210531093500 -0300" stop="20210531104500 -0300" channel="MTV">
+    <title lang="pt">De Férias com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531104500 -0300" stop="20210531112000 -0300" channel="MTV">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531112000 -0300" stop="20210531121000 -0300" channel="MTV">
+    <title lang="pt">Grávida aos 16</title>
+  </programme>
+  <programme start="20210531121000 -0300" stop="20210531131000 -0300" channel="MTV">
+    <title lang="pt">De Papo com o Ex</title>
+  </programme>
+  <programme start="20210531131000 -0300" stop="20210531134000 -0300" channel="MTV">
+    <title lang="pt">30 Minutos de Ex</title>
+  </programme>
+  <programme start="20210531134000 -0300" stop="20210531143000 -0300" channel="MTV">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20210531143000 -0300" stop="20210531155500 -0300" channel="MTV">
+    <title lang="pt">MTV Hits</title>
+  </programme>
+  <programme start="20210531155500 -0300" stop="20210531170000 -0300" channel="MTV">
+    <title lang="pt">The Challenge</title>
+  </programme>
+  <programme start="20210531170000 -0300" stop="20210531175000 -0300" channel="MTV">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20210531175000 -0300" stop="20210531190000 -0300" channel="MTV">
+    <title lang="pt">De Férias com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531195500 -0300" channel="MTV">
+    <title lang="pt">De Papo com o Ex</title>
+  </programme>
+  <programme start="20210531195500 -0300" stop="20210531200500 -0300" channel="MTV">
+    <title lang="pt">De Férias com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531200500 -0300" stop="20210531210000 -0300" channel="MTV">
+    <title lang="pt">De Papo com o Ex</title>
+  </programme>
+  <programme start="20210531210000 -0300" stop="20210531215000 -0300" channel="MTV">
+    <title lang="pt">Pelados e Apaixonados</title>
+  </programme>
+  <programme start="20210531215000 -0300" stop="20210531222000 -0300" channel="MTV">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+  </programme>
+  <programme start="20210531222000 -0300" stop="20210531231000 -0300" channel="MTV">
+    <title lang="pt">Geordie Shore</title>
+  </programme>
+  <programme start="20210531231000 -0300" stop="20210601010000 -0300" channel="MTV">
+    <title lang="pt">Tudão MTV</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531002500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Rota do Vinil</title>
+  </programme>
+  <programme start="20210531002500 -0300" stop="20210531005500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Buscando Buskers</title>
+  </programme>
+  <programme start="20210531005500 -0300" stop="20210531012500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Fresno Lá Fora</title>
+  </programme>
+  <programme start="20210531012500 -0300" stop="20210531015000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Histórias Do Violão</title>
+  </programme>
+  <programme start="20210531015000 -0300" stop="20210531022000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+  </programme>
+  <programme start="20210531022000 -0300" stop="20210531035500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Box in Concert</title>
+  </programme>
+  <programme start="20210531035500 -0300" stop="20210531051000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Box in Concert</title>
+  </programme>
+  <programme start="20210531051000 -0300" stop="20210531051500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531051500 -0300" stop="20210531052500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531052500 -0300" stop="20210531053000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531053000 -0300" stop="20210531054000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531054000 -0300" stop="20210531054500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531054500 -0300" stop="20210531061000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531061000 -0300" stop="20210531062000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531062000 -0300" stop="20210531064500 -0300" channel="Music Box Brazil">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+  </programme>
+  <programme start="20210531064500 -0300" stop="20210531071000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Porto Dragão Sessions</title>
+  </programme>
+  <programme start="20210531071000 -0300" stop="20210531071500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jam Sessions</title>
+  </programme>
+  <programme start="20210531071500 -0300" stop="20210531074500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Ao Vivo no Soma</title>
+  </programme>
+  <programme start="20210531074500 -0300" stop="20210531081500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+  </programme>
+  <programme start="20210531081500 -0300" stop="20210531100000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Box in Concert</title>
+  </programme>
+  <programme start="20210531100000 -0300" stop="20210531103000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Os Sambas</title>
+  </programme>
+  <programme start="20210531103000 -0300" stop="20210531110000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Origens</title>
+  </programme>
+  <programme start="20210531110000 -0300" stop="20210531120000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531122500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Histórias Do Violão</title>
+  </programme>
+  <programme start="20210531122500 -0300" stop="20210531123000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531123000 -0300" stop="20210531130000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Fresno Lá Fora</title>
+  </programme>
+  <programme start="20210531130000 -0300" stop="20210531131500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Programa da Layla</title>
+  </programme>
+  <programme start="20210531131500 -0300" stop="20210531133000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531140000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Buscando Buskers</title>
+  </programme>
+  <programme start="20210531140000 -0300" stop="20210531143000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Curta o Som</title>
+  </programme>
+  <programme start="20210531143000 -0300" stop="20210531143500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531143500 -0300" stop="20210531150000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Dosol Sessions</title>
+  </programme>
+  <programme start="20210531150000 -0300" stop="20210531153000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+  </programme>
+  <programme start="20210531153000 -0300" stop="20210531183000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20210531183000 -0300" stop="20210531184500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Fala, Mas Toca com De Maria</title>
+  </programme>
+  <programme start="20210531184500 -0300" stop="20210531190000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Sotaques do Brasil</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531193000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Origens</title>
+  </programme>
+  <programme start="20210531193000 -0300" stop="20210531195500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Rota do Vinil</title>
+  </programme>
+  <programme start="20210531195500 -0300" stop="20210531203000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+  </programme>
+  <programme start="20210531203000 -0300" stop="20210531205500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Estúdio Mobília Space</title>
+  </programme>
+  <programme start="20210531205500 -0300" stop="20210531212500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Conecrew Diretoria Tour</title>
+  </programme>
+  <programme start="20210531212500 -0300" stop="20210531214000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Music Drops</title>
+  </programme>
+  <programme start="20210531214000 -0300" stop="20210531220500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Música Para Ver</title>
+  </programme>
+  <programme start="20210531220500 -0300" stop="20210531223500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Contando Música, Cantando História</title>
+  </programme>
+  <programme start="20210531223500 -0300" stop="20210531230500 -0300" channel="Music Box Brazil">
+    <title lang="pt">Robertinho de Recife? Robertinho do Mundo!</title>
+  </programme>
+  <programme start="20210531230500 -0300" stop="20210601000000 -0300" channel="Music Box Brazil">
+    <title lang="pt">Jukebox (videoclipes)</title>
+  </programme>
+  <programme start="20210531000500 -0300" stop="20210531005000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+  </programme>
+  <programme start="20210531005000 -0300" stop="20210531013600 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Caçadores da África</title>
+  </programme>
+  <programme start="20210531013600 -0300" stop="20210531022200 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+  </programme>
+  <programme start="20210531022200 -0300" stop="20210531030700 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Yukon: Plantão Veterinário</title>
+  </programme>
+  <programme start="20210531030700 -0300" stop="20210531035400 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra K: Animais Exóticos</title>
+  </programme>
+  <programme start="20210531035400 -0300" stop="20210531043900 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+  </programme>
+  <programme start="20210531043900 -0300" stop="20210531052500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Segredos do Zoológico</title>
+  </programme>
+  <programme start="20210531052500 -0300" stop="20210531061200 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Os Segredos do Zoológico: Tampa</title>
+  </programme>
+  <programme start="20210531061200 -0300" stop="20210531070000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531074800 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+  </programme>
+  <programme start="20210531074800 -0300" stop="20210531081100 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+  </programme>
+  <programme start="20210531081100 -0300" stop="20210531085800 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Emergência Animal</title>
+  </programme>
+  <programme start="20210531085800 -0300" stop="20210531094400 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Emergência Animal</title>
+  </programme>
+  <programme start="20210531094400 -0300" stop="20210531103100 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Amizades Insólitas</title>
+  </programme>
+  <programme start="20210531103100 -0300" stop="20210531111600 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Loucuras Animais</title>
+  </programme>
+  <programme start="20210531111600 -0300" stop="20210531120100 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+  </programme>
+  <programme start="20210531120100 -0300" stop="20210531124700 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Europa Selvagem</title>
+  </programme>
+  <programme start="20210531124700 -0300" stop="20210531133400 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Quando os Tubarões Atacam</title>
+  </programme>
+  <programme start="20210531133400 -0300" stop="20210531142000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+  </programme>
+  <programme start="20210531142000 -0300" stop="20210531150600 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+  </programme>
+  <programme start="20210531150600 -0300" stop="20210531155200 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">SOS Cobra</title>
+  </programme>
+  <programme start="20210531155200 -0300" stop="20210531163800 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">SOS Cobra</title>
+  </programme>
+  <programme start="20210531163800 -0300" stop="20210531172400 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">O Melhor de Yukon: Plantão Veterinário</title>
+  </programme>
+  <programme start="20210531172400 -0300" stop="20210531180900 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal</title>
+  </programme>
+  <programme start="20210531180900 -0300" stop="20210531185500 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Predadores Africanos</title>
+  </programme>
+  <programme start="20210531185500 -0300" stop="20210531194100 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+  </programme>
+  <programme start="20210531194100 -0300" stop="20210531202800 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+  </programme>
+  <programme start="20210531202800 -0300" stop="20210531211400 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Yukon: Plantão Veterinário</title>
+  </programme>
+  <programme start="20210531211400 -0300" stop="20210531220000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+  </programme>
+  <programme start="20210531220000 -0300" stop="20210531224600 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Ben E Erin: Veterinários do Meio-Oeste</title>
+  </programme>
+  <programme start="20210531224600 -0300" stop="20210531233200 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">SOS Cobra</title>
+  </programme>
+  <programme start="20210531233200 -0300" stop="20210601001700 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Segredos do Zoológico</title>
+  </programme>
+  <programme start="20210531000000 -0300" stop="20210531003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+  </programme>
+  <programme start="20210531003000 -0300" stop="20210531010000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+  </programme>
+  <programme start="20210531010000 -0300" stop="20210531013000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+  </programme>
+  <programme start="20210531013000 -0300" stop="20210531020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+  </programme>
+  <programme start="20210531020000 -0300" stop="20210531023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+  </programme>
+  <programme start="20210531023000 -0300" stop="20210531030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+  </programme>
+  <programme start="20210531030000 -0300" stop="20210531033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+  </programme>
+  <programme start="20210531033000 -0300" stop="20210531040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+  </programme>
+  <programme start="20210531040000 -0300" stop="20210531043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Escola de Rock</title>
+  </programme>
+  <programme start="20210531043000 -0300" stop="20210531050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20210531050000 -0300" stop="20210531053000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531053000 -0300" stop="20210531060000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531060000 -0300" stop="20210531063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Blaze e Os Monster Machine</title>
+  </programme>
+  <programme start="20210531063000 -0300" stop="20210531070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Pistas de Blue &amp; Você</title>
+  </programme>
+  <programme start="20210531070000 -0300" stop="20210531073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20210531073000 -0300" stop="20210531080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20210531080000 -0300" stop="20210531083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531083000 -0300" stop="20210531090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531090000 -0300" stop="20210531093000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531093000 -0300" stop="20210531100000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531100000 -0300" stop="20210531103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531103000 -0300" stop="20210531110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531110000 -0300" stop="20210531113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531113000 -0300" stop="20210531120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531120000 -0300" stop="20210531123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+  </programme>
+  <programme start="20210531123000 -0300" stop="20210531130000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+  </programme>
+  <programme start="20210531130000 -0300" stop="20210531133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+  </programme>
+  <programme start="20210531133000 -0300" stop="20210531140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20210531140000 -0300" stop="20210531143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20210531143000 -0300" stop="20210531150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531150000 -0300" stop="20210531153000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20210531153000 -0300" stop="20210531160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20210531160000 -0300" stop="20210531163000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531163000 -0300" stop="20210531170000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20210531170000 -0300" stop="20210531173000 -0300" channel="Nickelodeon">
+    <title lang="pt">As Aventuras de Kid Danger</title>
+  </programme>
+  <programme start="20210531173000 -0300" stop="20210531180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Under Undergrounds</title>
+  </programme>
+  <programme start="20210531180000 -0300" stop="20210531183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Under Undergrounds</title>
+  </programme>
+  <programme start="20210531183000 -0300" stop="20210531190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20210531190000 -0300" stop="20210531193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Spyders</title>
+  </programme>
+  <programme start="20210531193000 -0300" stop="20210531200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Conversando Com Jayden e Brent</title>
+  </programme>
+  <programme start="20210531200000 -0300" stop="20210531203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+  </programme>
+  <programme start="20210531203000 -0300" stop="20210531210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531210000 -0300" stop="20210531213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20210531213000 -0300" stop="20210531220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tudo Em Cima</title>
+  </programme>
+  <programme start="20210531220000 -0300" stop="20210531223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+  </programme>
+  <programme start="20210531223000 -0300" stop="20210531230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20210531230000 -0300" stop="20210531233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky e Dawn</title>
+  </programme>
+  <programme start="20210531233000 -0300" stop="20210601000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+</tv>
